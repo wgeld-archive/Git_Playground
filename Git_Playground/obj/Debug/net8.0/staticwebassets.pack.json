@@ -245,6 +245,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\mhanson\\source\\repos\\Git_Playground\\Git_Playground\\wwwroot\\roboBarista.webp",
+      "PackagePath": "staticwebassets\\roboBarista.webp"
+    },
+    {
+      "Id": "C:\\Users\\mhanson\\source\\repos\\Git_Playground\\Git_Playground\\wwwroot\\roboDog.jfif",
+      "PackagePath": "staticwebassets\\roboDog.jfif"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Git_Playground.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

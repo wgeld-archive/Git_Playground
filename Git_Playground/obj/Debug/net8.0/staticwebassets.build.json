@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7lScB0FIm2mX/Jzi5sRGvxXyeXQLHHSz2CxmvYx6svE=",
+  "Hash": "GixNKwmq+IikoFITJXxt/YQ/n53c9PXm1c1kwJd4prE=",
   "Source": "Git_Playground",
   "BasePath": "_content/Git_Playground",
   "Mode": "Default",
@@ -1193,6 +1193,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\mhanson\\source\\repos\\Git_Playground\\Git_Playground\\wwwroot\\roboBarista.webp",
+      "SourceId": "Git_Playground",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mhanson\\source\\repos\\Git_Playground\\Git_Playground\\wwwroot\\",
+      "BasePath": "_content/Git_Playground",
+      "RelativePath": "roboBarista.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\roboBarista.webp"
+    },
+    {
+      "Identity": "C:\\Users\\mhanson\\source\\repos\\Git_Playground\\Git_Playground\\wwwroot\\roboDog.jfif",
+      "SourceId": "Git_Playground",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mhanson\\source\\repos\\Git_Playground\\Git_Playground\\wwwroot\\",
+      "BasePath": "_content/Git_Playground",
+      "RelativePath": "roboDog.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\roboDog.jfif"
     }
   ]
 }
