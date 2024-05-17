@@ -28,3 +28,4 @@ C:\Users\mhanson\source\repos\Git_Playground\Git_Playground\obj\Debug\net8.0\ref
 C:\Users\mhanson\source\repos\Git_Playground\Git_Playground\obj\Debug\net8.0\Git_Playground.pdb
 C:\Users\mhanson\source\repos\Git_Playground\Git_Playground\obj\Debug\net8.0\Git_Playground.genruntimeconfig.cache
 C:\Users\mhanson\source\repos\Git_Playground\Git_Playground\obj\Debug\net8.0\ref\Git_Playground.dll
+C:\Users\mhanson\source\repos\Git_Playground\Git_Playground\obj\Debug\net8.0\Git_Playground.sourcelink.json
