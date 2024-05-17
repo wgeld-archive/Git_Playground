@@ -8,6 +8,7 @@
 
     <ItemGroup>
       <_ContentIncludedByDefault Remove="Views\Branch2Page\Index.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Branch4PullRequests\Index.cshtml" />
     </ItemGroup>
 
 </Project>
