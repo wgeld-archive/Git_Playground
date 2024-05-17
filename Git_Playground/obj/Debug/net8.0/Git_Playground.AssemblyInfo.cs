@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Git_Playground")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb7530794d7cd91a00906be1f7276d2fb89d6e76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37de37ba54a39fd911bc6428898b4874d0ca1ec3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Git_Playground")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Git_Playground")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
