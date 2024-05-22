@@ -1,31 +1,88 @@
-
 <body>
 <div style="display: block;justify-content: center;margin-top: 84px;height: 64px;">
-    <h3 style="color:rebeccapurple;width: 100%">Branch 4 PAGE</h3>
-    <h5 style="text-align: center;margin-bottom: 16px;">Push your changes for others to see.</h5>
-    <h6>Try adding some text headers or paragraph tags in the div below. Make your message whatever you like, then try submitting a pull request for review. </h6>
+    <h3 style="color:rebeccapurple;text-align: center;">Branch 4 Pull Requests and Adding New Branches</h3>
+    <h5 style="text-align: center;margin-bottom: 32px;margin-top: 16px;">
+        Push changes to a new branch. Then, submit a pull request so that someone may review it
+        and it may be merged to a master or dev branch.
+    </h5>
+    <ul>
+        <li style="margin-top:8px;margin-bottom: 24px;">
+            <h5>
+                Try adding some text headers, paragraph tags, or divs in the div below. <br/>
+                Comment/uncomment code, delete lines. <br/>
+                <h6>Make your changes whatever you like, but make a good amount of change or the merge will just be automatic.</h6>
+            </h5>
+        </li>
+
+        <li style="margin-top:8px;margin-bottom: 24px;">
+            <h5>
+                Create a new branch using:<br/>
+                <h5 style="color: crimson;text-align: center; margin-top: 8px;margin-bottom: 8px;">git checkout -b NameOfNewBranch.</h5> 
+                <h6>You want to switch to a new branch either before or after making changes.</h6>
+            </h5>
+        </li>
+        <li style="margin-top:8px;margin-bottom: 24px;">
+
+            <h5>
+                Next, add your files to the new branch with: <br/>
+                <h5 style="color: crimson;text-align: center;margin-top: 8px;margin-bottom: 8px;">git add .</h5>
+            </h5>
+        </li>
+        <li style="margin-top:8px;margin-bottom: 24px;">
+
+            <h5>
+                Now, commit your changes from the code to your branch with:<br/>
+                <h5 style="color: crimson; text-align: center;margin-top: 8px;margin-bottom: 8px;">git commit -m "type any message here about your changes"</h5>
+            </h5>
+        </li>
+        <li style="margin-top:8px;margin-bottom: 24px;">
+
+            <h5>
+                Finally push your new branch to the remote/Github with: <br/>
+                <h5 style="color: crimson; text-align: center;margin-top: 8px;margin-bottom: 8px;">git push --set-upstream origin NewBranchNameHere</h5>
+            </h5>
+            <h6>In the future if you push from this branch again, you can just use "git push"</h6>
+        </li>
+        <li style="margin-top:8px;margin-bottom: 24px;">
+
+            <h5>
+                Submit a pull request, asking for code from your new branch to be merged onto a development one.
+                A notification will be sent out and your PR will be reviewed and compared before someone accepts or declines it
+                and from there your code may be merged onto a master or development branch.
+            </h5>
+            <h6>You may submit a pull request from Github. Find the branch you want to merge ON to in Github, then click "contribute" in the upper right.</h6>
+            @* as of this moment I'm only aware of how to do PR's directly on Github.com. Its pretty straightforward there but it may be good option to use CLI *@
+        </li>
+    </ul>
     
+
     
+
     <div style="text-align: center;margin-top: 64px;">
-              @* CODE BELOW THIS LINE TO BE ALTERED: --------------------------------------------------------------------------------------------------------------------- *@
-              
-              @* <p style="color:orange; font-size: 32px;">#1 -------Try uncommenting me then submit a pull request</p> *@
-              
-              
-              
-              @* <p style="color:blue; font-size: 32px;">#2 ------- Try uncommenting me then submit a pull request</p> *@
-              
-              
-              
-              <p style="color:darkred; font-size: 32px;">#2 ------- Try uncommenting me then submit a pull request</p>
+        @* CODE BELOW THIS LINE TO BE ALTERED: --------------------------------------------------------------------------------------------------------------------- *@
 
-              
-              @* CODE ABOVE THIS LINE TO BE ALTERED: --------------------------------------------------------------------------------------------------------------------- *@
-          
-          </div>
-</div> 
-    
 
+
+
+
+        @* <p style="color:orange; font-size: 32px;">#1 -------Try uncommenting me then submit a pull request</p> *@
+
+
+
+        @* <p style="color:blue; font-size: 32px;">#2 ------- Try uncommenting me then submit a pull request</p> *@
+
+
+        <p style="color:darkred; font-size: 32px;">#2 ------- Try deleting me, overwriting me with a header tag, etc. Then follow steps above to submit a pull request.</p>
+
+
+        @* CODE ABOVE THIS LINE TO BE ALTERED: --------------------------------------------------------------------------------------------------------------------- *@
+
+    </div>
+</div>
 
 
 </body>
+
+
+
+@* <div style="height:800px;width: 400px;background-color: purple"></div> *@
