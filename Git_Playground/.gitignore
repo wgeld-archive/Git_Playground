@@ -14,7 +14,7 @@
 *.info
 
 obj/
-
+bin/
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -34,5 +34,7 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+
+
 
 ...

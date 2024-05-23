@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Git_Playground.Models;
+using Microsoft.Extensions.Logging;
 
 namespace Git_Playground.Controllers;
 
