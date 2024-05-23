@@ -11,6 +11,8 @@
 *.sln.docstates
 
 
+*.info
+
 obj/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
