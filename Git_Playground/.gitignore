@@ -12,7 +12,7 @@
 
 
 *.info
-
+bin/
 obj/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
