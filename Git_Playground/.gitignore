@@ -7,7 +7,7 @@
 *.userosscache
 *.sln.docstates
 
-
+*.idea
 *.env
 
 *.info
