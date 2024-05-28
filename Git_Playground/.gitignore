@@ -12,7 +12,8 @@
 
 
 *.info
-
+debug/
+Debug/
 obj/
 bin/
 
