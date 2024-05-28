@@ -11,8 +11,11 @@
 *.env
 
 *.info
-
+debug/
+Debug/
+obj
 obj/
+Obj/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
