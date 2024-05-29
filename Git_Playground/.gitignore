@@ -9,6 +9,11 @@
 
 *.idea
 *.env
+*.config
+.idea/
+idea/
+Idea/
+.Idea/
 
 *.info
 debug/
