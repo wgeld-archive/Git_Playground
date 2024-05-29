@@ -5,6 +5,11 @@
 *.userosscache
 *.sln.docstates
 *.info
+*.config
+.idea/
+idea/
+Idea/
+.Idea/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
