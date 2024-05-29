@@ -10,6 +10,11 @@
 *.userosscache
 *.sln.docstates
 
+*.config
+.idea/
+idea/
+Idea/
+.Idea/
 
 *.info
 bin/
