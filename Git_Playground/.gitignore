@@ -15,7 +15,7 @@
 idea/
 Idea/
 .Idea/
-
+*.name
 *.info
 debug/
 Debug/
